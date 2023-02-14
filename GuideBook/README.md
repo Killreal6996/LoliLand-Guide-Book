@@ -30,11 +30,11 @@ LoliTeam is a community formed by LoliLand project players and not only (for exa
 
 ### What the book?
 
-This book contains absolutely all the knowledge about all the <mark style="color:yellow;">**self-made mods**</mark> on the LoliLand project. This information is relevant for updating on <mark style="color:red;">February 04, 2023</mark>. As the update is released, this book will also be updated. Also, in addition to self-written mods, there will be guides for classic modifications that are used on various assemblies of this project. And most importantly, you will be able to find useful hints or "life hacks" to simplify your gameplay.
+This book contains absolutely all the knowledge about all the <mark style="color:yellow;">**self-made mods**</mark> on the LoliLand project. This information is relevant for updating on <mark style="color:red;">**February 04, 2023**</mark>. As the update is released, this book will also be updated. Also, in addition to self-written mods, there will be guides for classic modifications that are used on various assemblies of this project. And most importantly, you will be able to find useful hints or "life hacks" to simplify your gameplay.
 
 ### Links
 
-If you have any questions or you have found a mistake in this book, then you can contact us through the following platforms:
-
+If you have any questions or you have found a mistake in this book, then you can contact us through the following platforms:\
 Discord: ** **<mark style="color:purple;">**Bloody Reaper#6888**</mark> (Killreal6996, Kirill)\
 &#x20;              <mark style="color:purple;">**Workezy#9889**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> (Workezy, Kirill)
+
