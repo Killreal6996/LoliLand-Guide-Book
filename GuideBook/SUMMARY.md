@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Loliland Wiki by LoliTeam](README.md)
-  * [LoliEnergyRelics](loliland-wiki-by-loliteam/lolienergyrelics.md)
-  * [LoliForestry](loliland-wiki-by-loliteam/loliforestry.md)
-  * [LoliEnergistics](loliland-wiki-by-loliteam/lolienergistics.md)
   * [LoliDragonMight](loliland-wiki-by-loliteam/lolidragonmight.md)
 
 ## 1.7.10 MODS
@@ -16,3 +13,7 @@
 * [LoliMagically](1.7.10-mods/lolimagically.md)
 * [LoliGayaMod](1.7.10-mods/loligayamod.md)
 * [LoliDecorative](1.7.10-mods/lolidecorative.md)
+* [LoliEnergyRelics](1.7.10-mods/lolienergyrelics/README.md)
+  * [Page 1](1.7.10-mods/lolienergyrelics/page-1.md)
+* [LoliForestry](1.7.10-mods/loliforestry.md)
+* [LoliEnergistics](1.7.10-mods/lolienergistics.md)
