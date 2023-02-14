@@ -10,7 +10,7 @@ description: >-
 
 ### Пару слов, о том, что такое LoliTeam.
 
-LoliTeam - сообщество сформированное на основе игроков проекта LoliLand и не только (например из команды проекта, реальные инженеры, дизайнеры и т.д.). Полные списки всех участников найти вы не сможете, но все **наши** работы сопровождаются подписями его участников.&#x20;
+LoliTeam - сообщество сформированное на основе игроков проекта LoliLand и не только (например из команды проекта). Полные списки всех участников найти вы не сможете, но все **наши** работы сопровождаются подписями его участников.&#x20;
 
 ### Что за книга?
 
@@ -22,3 +22,19 @@ LoliTeam - сообщество сформированное на основе �
 Discord: ** **<mark style="color:purple;">**Bloody Reaper#6888**</mark> (Killreal6996, Кирилл)\
 &#x20;              <mark style="color:purple;">**Workezy#9889**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> (Workezy, Кирилл)
 
+## For english speakers:
+
+### About LoliTeam
+
+LoliTeam is a community formed by LoliLand project players and not only (for example, from the staff members of the project). You can't be able to find complete lists of all participants, but all our works are accompanied by signatures of its members.
+
+### What the book?
+
+This book contains absolutely all the knowledge about all the <mark style="color:yellow;">**self-made mods**</mark> on the LoliLand project. This information is relevant for updating on <mark style="color:red;">February 04, 2023</mark>. As the update is released, this book will also be updated. Also, in addition to self-written mods, there will be guides for classic modifications that are used on various assemblies of this project. And most importantly, you will be able to find useful hints or "life hacks" to simplify your gameplay.
+
+### Links
+
+If you have any questions or you have found a mistake in this book, then you can contact us through the following platforms:
+
+Discord: ** **<mark style="color:purple;">**Bloody Reaper#6888**</mark> (Killreal6996, Kirill)\
+&#x20;              <mark style="color:purple;">**Workezy#9889**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> (Workezy, Kirill)
