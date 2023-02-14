@@ -1,6 +1,4 @@
 ---
-cover: ../.gitbook/assets/gifgit.gif
-coverY: 133.75100401606426
 layout: landing
 ---
 
