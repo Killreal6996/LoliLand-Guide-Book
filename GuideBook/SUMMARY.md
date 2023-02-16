@@ -14,6 +14,7 @@
 * [LoliGayaMod](1.7.10-mods/loligayamod.md)
 * [LoliDecorative](1.7.10-mods/lolidecorative.md)
 * [LoliEnergyRelics](1.7.10-mods/lolienergyrelics/README.md)
+  * [Остальные Реликвии](1.7.10-mods/lolienergyrelics/ostalnye-relikvii.md)
   * [Page 1](1.7.10-mods/lolienergyrelics/page-1.md)
 * [LoliForestry](1.7.10-mods/loliforestry.md)
 * [LoliEnergistics](1.7.10-mods/lolienergistics.md)
