@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Loliland Wiki by LoliTeam](README.md)
-  * [LoliDragonMight](loliland-wiki-by-loliteam/lolidragonmight.md)
 
 ## 1.7.10 MODS
 
+* [LoliDragonMight](1.7.10-mods/lolidragonmight/README.md)
+  * [🐉 Драконы](1.7.10-mods/lolidragonmight/drakony.md)
 * [LoliUtility](1.7.10-mods/loliutility.md)
 * [LoliBoxMod](1.7.10-mods/loliboxmod.md)
 * [LoliTech](1.7.10-mods/lolitech.md)
